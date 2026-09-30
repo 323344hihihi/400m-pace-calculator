@@ -11,7 +11,10 @@
 
 保存历史记录
 
-如何运行：
+如何运行命令行版：
+    Linux：cd ./400m-pace-calculator/src
+		 pytyhon3 main.py
+		 nano main.py(编辑代码)
     需要 Python
 
     运行命令：python src/main.py
@@ -33,3 +36,11 @@
 后续计划：
     网页版
     小程序版
+
+在线体验链接：https://323344hihihi.github.io/400m-pace-calculator/
+
+技术栈：Python/HTML/CSS/JavaScript
+
+后续计划：采集真实信息，优化算法，丰富功能，上线微信小程序版本。
+
+作者信息：中国石油大学（华东）25级软件工程本科生。
